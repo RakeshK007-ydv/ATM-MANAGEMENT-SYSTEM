@@ -1,3 +1,5 @@
+# my first Git project 
+
 class Payment:
     def pay(self, amount):
         print("Processing payment")
